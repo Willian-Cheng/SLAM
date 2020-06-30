@@ -14,11 +14,13 @@
 ![西南交大8](https://github.com/Willian-Cheng/SLAM/raw/master/gif/5.gif)
 ## 地铁隧道建图
   >成都9号线1.5KM距离。  
-  >传感器包括：3D-Lidar、IMU。  
-![隧道1](https://github.com/Willian-Cheng/SLAM/raw/master/image/tunnel1.png)
+  >传感器包括：3D-Lidar、IMU。
 ### 地图
-![隧道2](https://github.com/Willian-Cheng/SLAM/raw/master/image/tunnel2.png)    
-  >点云地图与CAD地图叠加效果（黄色为特征点）。
+![隧道1](https://github.com/Willian-Cheng/SLAM/raw/master/image/tunnel1.png)
+![隧道2](https://github.com/Willian-Cheng/SLAM/raw/master/image/tunnel2.png)
+
+  >点云地图与CAD地图叠加效果（黄色为特征点）。  
+
 ![隧道3](https://github.com/Willian-Cheng/SLAM/raw/master/image/tunnel3.png)
 ## 更多点云效果
 
