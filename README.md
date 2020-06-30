@@ -9,6 +9,8 @@
     + [地铁](#--)
     + [城市](#--)
 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 ## 西南交大沿湖一圈  
   >西南交大新校区沿湖一圈，路线总长约2.7KM。  
   >传感器包括：3D-Lidar、IMU。
